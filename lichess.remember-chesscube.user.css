@@ -7,7 +7,7 @@
 @author         github.com/ornicar
 ==/UserStyle== */
 
-@-moz-document domain("lichess.org") {
+@-moz-document domain("lichess.g") {
   h1.site-title a {
     background-image: url('https://i.imgur.com/0BMGOmg.png');
     background-repeat: no-repeat;
